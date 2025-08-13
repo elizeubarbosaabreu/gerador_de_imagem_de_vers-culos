@@ -4,7 +4,7 @@
 
 ------+    WINDOWS    +-------
 
-Descompacte a pasta windows e copie o arquivo gerador_image_de_versiculo.exe para Área de Trabalho ou Pendrive. O App foi feito para ser portátil. Basta um duplomclique e ele funcionará.
+Descompacte a pasta windows e copie o arquivo gerador_image_de_versiculo.exe para Área de Trabalho ou Pendrive. O App foi feito para ser portátil. Basta um duplo clique e ele funcionará.
  
   
  
