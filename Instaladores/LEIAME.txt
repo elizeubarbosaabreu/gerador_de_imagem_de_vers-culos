@@ -14,7 +14,7 @@ Abra o terminal com CTRL+Alt+T, e digite os comandos abaixo:
 
 sudo apt install unzip
 unzip ubuntu
-sudo ./install
+sudo ./install.sh
 
 Agora pesquise por Gerador de Imagens de Versículos entre seus Aplicativos
 
