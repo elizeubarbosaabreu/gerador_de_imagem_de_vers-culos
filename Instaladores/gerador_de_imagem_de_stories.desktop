@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Gerador de Imagens de Versículos
-Comment=Aplicativo para gerar imagens de versículos bíblicos
-Exec=/usr/local/bin/gerador_image_de_versiculo
-Icon=/usr/share/pixmaps/gerador_vers.png
-Terminal=false
-Type=Application
-Categories=Utility;
-
